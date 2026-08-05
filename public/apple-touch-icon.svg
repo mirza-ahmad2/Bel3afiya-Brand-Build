@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Bel3afiya">
+  <circle cx="90" cy="90" r="90" fill="#1A1A1D"/>
+  <path fill="#A7D8DE" d="M50 118 L90 40 L130 118 L90 96 Z" opacity="0.95"/>
+  <path fill="#A7D8DE" d="M90 40 L90 96 L130 118 Z" opacity="0.75"/>
+  <path fill="none" stroke="#1A1A1D" stroke-width="3" stroke-linejoin="round" d="M90 40 L90 96 M90 96 L50 118 M90 96 L130 118" opacity="0.4"/>
+  <path fill="#A7D8DE" d="M90 96 L72 134 L90 126 L108 134 Z" opacity="0.85"/>
+  <text x="90" y="162" text-anchor="middle" font-family="Nunito, system-ui, sans-serif" font-size="22" font-weight="700" fill="#A7D8DE">bel3afiya</text>
+</svg>
